@@ -1,7 +1,7 @@
 ### 👋 Hi there. I'm a student studying android and ios programming.
 ###    As technology advances, I hope to grow together.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Characterful&show_icons=true&theme=radical)
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
