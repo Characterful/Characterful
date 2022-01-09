@@ -2,7 +2,12 @@
 ###    As technology advances, I hope to grow together.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Characterful&show_icons=true&theme=nord)
+
+## Platforms & Languages
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+
+
 
 <!--
 **Characterful/Characterful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
