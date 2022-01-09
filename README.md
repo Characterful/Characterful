@@ -1,5 +1,5 @@
 ### 👋 Hi there. I'm a student studying android and ios programming.
-###    As technology advances, I want to grow together.
+###    As technology advances, I hope to grow together.
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
