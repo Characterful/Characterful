@@ -1,5 +1,5 @@
 ### 👋 Hi there. I'm a student studying android and ios programming.
-###    As technology advances, I hope to grow together.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Characterful&show_icons=true&theme=nord)
 
